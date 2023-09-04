@@ -9,7 +9,7 @@ const MatchDetails = ({ match }) => {
     <div className="p-12 border-2 border-white">
       <div className="flex justify-between">
         <h4 className="text-gray-500 font-bold underline">{competitionName}</h4>
-        <h4 className="font-bold">FT</h4>
+        <h4 className="font-bold px-1">FT</h4>
       </div>
       <div className="flex justify-between">
         <div className="self-start space-y-3">
